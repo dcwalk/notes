@@ -1,2 +1,3 @@
-# tech
-Notes and other assets around tech and infrastructure
+# CoSocial Technology Operations
+
+"TechOps" - notes and other assets around tech and infrastructure.
