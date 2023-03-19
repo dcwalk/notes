@@ -1,3 +1,3 @@
-# CoSocial Technology Operations
+# CoSocial Notes
 
-"TechOps" - notes and other assets around tech and infrastructure.
+Our main public notes repository. Public home page is at https://cosocial.info
